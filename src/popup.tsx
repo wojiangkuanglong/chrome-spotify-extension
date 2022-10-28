@@ -4,13 +4,8 @@ function IndexPopup() {
   const [data, setData] = useState("")
 
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        padding: 16
-      }}>
-     123
+    <div>
+     1234
     </div>
   )
 }
