@@ -1,6 +1,6 @@
 {
-  "name": "test-plasmo",
-  "displayName": "Test plasmo",
+  "name": "chrome-spotify-extension",
+  "displayName": "chrome-spotify-extension",
   "version": "0.0.0",
   "description": "A basic Plasmo extension.",
   "author": "chengzhenghao",
