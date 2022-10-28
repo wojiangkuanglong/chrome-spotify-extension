@@ -1,11 +1,11 @@
 import { useState } from "react"
 
-function IndexPopup() {
+const IndexPopup = () => {
   const [data, setData] = useState("")
 
   return (
     <div>
-     1234
+      12341
     </div>
   )
 }
