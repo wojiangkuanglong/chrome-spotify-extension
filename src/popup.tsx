@@ -1,13 +1,14 @@
-import { useState } from "react"
+import { useState } from "react";
+import { MemoryRouter } from "react-router-dom";
+import { Routing } from "./tabs";
 
-function IndexPopup() {
-  const [data, setData] = useState("")
+function Home() {
 
   return (
-    <div>
-     1234
-    </div>
+    <MemoryRouter>
+     <Routing />
+    </MemoryRouter>
   )
 }
 
-export default IndexPopup
+export default Home
