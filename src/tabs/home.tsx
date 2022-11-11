@@ -1,9 +1,8 @@
-import { useState } from "react";
-
 function Home() {
-
   const onCallbackPage = (): void => {
-    window.open('chrome-extension://mmhhhpdpaegemidlbnfafcpbddnaleom/tabs/callback.html')
+    window.open(
+      "chrome-extension://mgmgikmfbdnpicpemgnfbmhopnmkejap/tabs/callback.html"
+    )
   }
 
   return (

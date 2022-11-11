@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom"
 
-import Home from './home';
-import Callback from "./callback";
+import Callback from "./callback"
+import Home from "./home"
 
 export const Routing = () => (
   <Routes>
